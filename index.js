@@ -14,9 +14,4 @@ try {
 } catch(errPF){
     console.log("****ERROR: ",errPF,"***")
 } ;
-/*
-const path = require( "path" );
-const testWords = parseWords( path.join(__dirname,"./test/text_data.txt")  ) ;
-console.log("...testWords: ",testWords,";") ;
-*/
 //
