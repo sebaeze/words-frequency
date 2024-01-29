@@ -1,0 +1,15 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "explit words and report the frequency",
+  "main": "index.js",
+  "scripts": {
+    "test:data": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
